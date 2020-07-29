@@ -1,0 +1,9 @@
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\bin\Debug\netcoreapp3.1\KingShoppingList.Model.deps.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\bin\Debug\netcoreapp3.1\KingShoppingList.Model.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\bin\Debug\netcoreapp3.1\KingShoppingList.Model.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\obj\Debug\netcoreapp3.1\KingShoppingList.Model.csprojAssemblyReference.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\obj\Debug\netcoreapp3.1\KingShoppingList.Model.csproj.CoreCompileInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\obj\Debug\netcoreapp3.1\KingShoppingList.Model.AssemblyInfoInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\obj\Debug\netcoreapp3.1\KingShoppingList.Model.AssemblyInfo.cs
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\obj\Debug\netcoreapp3.1\KingShoppingList.Model.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Model\obj\Debug\netcoreapp3.1\KingShoppingList.Model.pdb

@@ -1,0 +1,14 @@
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Contract.deps.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Contract.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Contract.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.csprojAssemblyReference.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.csproj.CoreCompileInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.AssemblyInfoInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.AssemblyInfo.cs
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Model.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Model.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\obj\Debug\netcoreapp3.1\KingShoppingList.Contract.csproj.CopyComplete
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Contract\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+tVqlUoPSfcKV4l0V+WFyzo80+gIylZoPbwqA3gNFFiFSZqW4eyIp4l6SYakwHGk4qHqkbUfBV1CGpQmgX1zQ==",
+  "success": true,
+  "projectFilePath": "D:\\.net projekti\\KingShoppingList\\KingShoppingList\\KingShoppingList.Service\\KingShoppingList.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marko\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

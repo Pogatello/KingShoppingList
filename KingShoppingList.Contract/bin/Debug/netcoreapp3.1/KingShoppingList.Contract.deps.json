@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KingShoppingList.Contract/1.0.0": {
+        "dependencies": {
+          "KingShoppingList.Messeging": "1.0.0",
+          "KingShoppingList.Model": "1.0.0"
+        },
+        "runtime": {
+          "KingShoppingList.Contract.dll": {}
+        }
+      },
+      "KingShoppingList.Messeging/1.0.0": {
+        "runtime": {
+          "KingShoppingList.Messeging.dll": {}
+        }
+      },
+      "KingShoppingList.Model/1.0.0": {
+        "runtime": {
+          "KingShoppingList.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KingShoppingList.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KingShoppingList.Messeging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KingShoppingList.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Service.deps.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Service.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Service.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.csprojAssemblyReference.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.csproj.CoreCompileInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.AssemblyInfoInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.AssemblyInfo.cs
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Contract.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Model.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Contract.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Model.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\obj\Debug\netcoreapp3.1\KingShoppingList.Service.csproj.CopyComplete
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Service\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.pdb

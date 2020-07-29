@@ -1,0 +1,15 @@
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Repository.deps.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Repository.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.AssemblyInfoInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.AssemblyInfo.cs
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Repository.runtimeconfig.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Repository.runtimeconfig.dev.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.csprojAssemblyReference.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.genruntimeconfig.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Repository.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Model.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\bin\Debug\netcoreapp3.1\KingShoppingList.Model.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.csproj.CopyComplete
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Repository\obj\Debug\netcoreapp3.1\KingShoppingList.Repository.csproj.CoreCompileInputs.cache

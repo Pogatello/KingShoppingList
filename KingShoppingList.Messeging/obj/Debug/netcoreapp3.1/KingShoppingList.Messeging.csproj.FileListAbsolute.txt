@@ -1,0 +1,9 @@
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.deps.json
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\bin\Debug\netcoreapp3.1\KingShoppingList.Messeging.pdb
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\obj\Debug\netcoreapp3.1\KingShoppingList.Messeging.csprojAssemblyReference.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\obj\Debug\netcoreapp3.1\KingShoppingList.Messeging.csproj.CoreCompileInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\obj\Debug\netcoreapp3.1\KingShoppingList.Messeging.AssemblyInfoInputs.cache
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\obj\Debug\netcoreapp3.1\KingShoppingList.Messeging.AssemblyInfo.cs
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\obj\Debug\netcoreapp3.1\KingShoppingList.Messeging.dll
+D:\.net projekti\KingShoppingList\KingShoppingList\KingShoppingList.Messeging\obj\Debug\netcoreapp3.1\KingShoppingList.Messeging.pdb
