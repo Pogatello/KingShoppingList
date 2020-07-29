@@ -1,0 +1,18 @@
+﻿@model IEnumerable<KingShoppingList.Model.ListItem>
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>You cannot delete this list because it contains products in your cart</h2>
+<hr />
+
+<p>Products in cart: </p>
+<ul>
+    @foreach(var pr in Model)
+    {
+    <li>@pr.Product.Name</li>
+    }
+</ul>
+
+<a class="btn btn-danger" asp-action="RemoveProductsInCart" asp-controller="ShoppingLists" asp-route-idShoppingList="@ViewBag.shoppingListId"> Remove all listed products from cart</a>

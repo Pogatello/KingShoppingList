@@ -1,0 +1,132 @@
+﻿@model KingShoppingList.Model.ShoppingList
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+<div class="col-md-9">
+<h1>@Model.Name</h1>
+
+<div>
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+
+                </th>
+                <th>
+
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ListItems)
+            {
+                <tr>
+                    <td>
+                        <h2>@Html.DisplayFor(modelItem => item.Product.Name) </h2>
+                    </td>
+                    <td>
+                        <h5> @Html.DisplayFor(modelItem => item.Quantity) </h5>
+                    </td>
+                    @if (!Model.published)
+                    {
+
+
+                        <td>
+                            <a asp-controller="ListItems" asp-action="Edit" asp-route-id="@item.Id">Change product/quantity</a>
+                        </td>
+                        <td>
+                            <a asp-controller="ListItems" asp-action="Delete" asp-route-id="@item.Id">Remove product</a>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                        </td>
+                        <td>
+
+                            <a class="someClass" asp-controller="Cart" asp-action="AddToCart" asp-route-id="@item.Id" asp-route-shpId="@Model.Id">
+                                @if (item.InCart != true)
+                                {<span>Add to cart</span>}
+                                else
+                                {
+                                    <span>Remove from cart</span>
+                                }
+                            </a>
+                        </td>
+
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    @if (!Model.published)
+    {
+        <a class="btn btn-success" asp-action="Create" asp-controller="ListItems" asp-route-shoppinglistid="@Model.Id"> Add More Items </a>
+    }
+</div>
+
+</div>
+
+<aside class="col-md-3" id=SearchResult>
+    <partial name="_ShoppingCart" model="new KingShoppingList.Model.ShoppingCart()" />
+</aside>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+
+
+        $(document).ready(function () {
+            var modelId = @Model.Id;
+            console.log("/Cart/RefreshPerCart/" + modelId);
+            GetDataPerId(modelId);
+        });
+
+        function GetData() {
+            $.ajax({
+                url: "/Cart/Refresh",
+                type: "get",
+                success: function (result) {
+                    console.log("try");
+                    $('#SearchResult').html(result);
+
+                },
+                error: function () {
+                    console.log("errorac");
+                }
+            });
+        }
+        http://localhost:507061
+        function GetDataPerId(modelId) {
+            $.ajax({
+                url: "/cart/RefreshPerCart/" + modelId,
+                type: "get",
+                success: function (result) {
+                    console.log("try");
+                    $('#SearchResult').html(result);
+
+                },
+                error: function () {
+                    console.log("errorac");
+                }
+            });
+        }
+
+
+
+
+    </script>
+
+}

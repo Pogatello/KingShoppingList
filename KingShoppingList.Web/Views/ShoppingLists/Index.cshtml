@@ -1,0 +1,55 @@
+﻿@model IEnumerable<KingShoppingList.Model.ShoppingList>
+
+@{
+    ViewData["Title"] = "ShopingLists";
+}
+
+
+<br />
+
+<p>
+    <a class="btn btn-success" asp-action="Create" asp-controller="ShoppingLists"> Add new Shopping list! </a>
+</p>
+
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                Status
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id"> <h2>@Html.DisplayFor(modelItem => item.Name)</h2></a>
+                </td>
+                <td>
+                    @if(item.published == true) { <span><b>Published</b></span>}
+                    else { <span>Draft</span>}
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="ShoppingLists" asp-action="Edit" asp-route-id="@item.Id">
+                        @if (item.published == true)
+                        {<span>Change to draft</span>}
+                        else
+                        { <span>Publish</span>}
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

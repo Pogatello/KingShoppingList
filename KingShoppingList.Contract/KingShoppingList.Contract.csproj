@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KingShoppingList.Messeging\KingShoppingList.Messeging.csproj" />
+    <ProjectReference Include="..\KingShoppingList.Model\KingShoppingList.Model.csproj" />
+  </ItemGroup>
+
+</Project>
